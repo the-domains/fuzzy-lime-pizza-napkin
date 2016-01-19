@@ -1,7 +1,7 @@
 name: Fuzzy Lime Pizza Napkin
 favicon: null
-layout_spectrum: 0.2551086733583361
-typography_spectrum: 0.5614327352959663
+layout_spectrum: 1
+typography_spectrum: 0.14517
 cta:
   domain: null
   bucket: null
